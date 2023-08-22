@@ -1,1 +1,3 @@
 # IMDb-Movie-Success-Prediction-Using-Ensemble-techniques-by-RandomForestClassifier
+In this project, I utilized the RandomForestClassifier ensemble technique to predict the success of IMDb movies. Leveraging a dataset containing various movie features, I trained the model to classify whether a movie would be successful or not based on these attributes. The RandomForest algorithm was selected due to its ability to handle complex relationships between features and provide robust predictions. The model achieved a certain level of accuracy on a validation set, indicating its potential in predicting movie success.
+
